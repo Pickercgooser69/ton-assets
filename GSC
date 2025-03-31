@@ -1,0 +1,8 @@
+{
+  "address": "0:a2b4dd083eec5d24d1f8566bf920ef22c1a9f961da29ce1a657f96dec9881108",
+  "name": "Gold Snatcher",
+  "symbol": "GSC",
+  "decimals": "9",
+  "image": "https://i.ibb.co/gZPrR8mq/1000393786.png",
+  "description": "Crumb sharing is a concept where [crumbs] are aggregated to create significant[bread]."
+}
